@@ -2,28 +2,28 @@
 
 ## Step  1
 
-``js
+``
 npm install -g create-single-spa
 ``
 
 ## Step  2
 
-``js
+``
 create-single-spa
 ``
 select options ad below. 
 
-? Directory for new project? .
-? Select type to generate single-spa? root config
-? Which package manager do you want to use? npm
-? Will this project use Typescript? Yes
-? Would you like to use single-spa Layout Engine? No
-? Organization name (can use letters, numbers, dash or underscore)? inno
+** Directory for new project? ** .
+** Select type to generate single-spa?**  root config
+**  Which package manager do you want to use?**  npm
+** Will this project use Typescript?**  Yes
+** Would you like to use single-spa Layout Engine?**  No
+** Organization name (can use letters, numbers, dash or underscore)?**  inno
 
 
 ## Step  3
 
-``js
+``
 npm start
 ``
 
